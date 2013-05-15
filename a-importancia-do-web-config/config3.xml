@@ -1,0 +1,5 @@
+<connectionStrings>
+  <add name="conString" 
+       connectionString="Data Source=localhost;Initial Catalog=nomeDoSeuBanco;Integrated Security=True;" 
+       providerName="System.Data.SqlClient" />
+</connectionStrings>

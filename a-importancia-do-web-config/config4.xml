@@ -1,0 +1,4 @@
+<appSettings>
+  <add key="Nome" value="Vitor" />
+  <add key="Sobrenome" value="Mendes" />
+</appSettings>

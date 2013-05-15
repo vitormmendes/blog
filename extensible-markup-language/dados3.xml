@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pedidos><Pedido><IdPedido>1</IdPedido><ItensDoPedido><Item><IdItem>557</IdItem><Nome>Geladeira XAVECO</Nome>
+<Preco>1000</Preco></Item><Item><IdItem>558</IdItem><Nome>Cadeira XAMEGO</Nome><Preco>80</Preco></Item>
+</ItensDoPedido></Pedido><Pedido><IdPedido>2</IdPedido><ItensDoPedido><Item><IdItem>559</IdItem>
+<Nome>Celular CADEMEUCHIPPEDROOO</Nome><Preco>500</Preco></Item></ItensDoPedido></Pedido></Pedidos>

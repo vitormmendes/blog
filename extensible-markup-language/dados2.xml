@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <Pedido IdPedido="1">
+    <ItensDoPedido>
+      <Item IdItem="557">
+        <Nome>Geladeira XAVECO</Nome>
+        <Preco>1000</Preco>
+      </Item>
+      <Item idItem="558">
+        <Nome>Cadeira XAMEGO</Nome>
+        <Preco>80</Preco>
+      </Item>
+    </ItensDoPedido>
+  </Pedido>
+  <Pedido IdPedido="2">
+    <ItensDoPedido>
+      <Item IdItem="559">
+        <Nome>Celular CADEMEUCHIPPEDROOO</Nome>
+        <Preco>500</Preco>
+      </Item>
+    </ItensDoPedido>
+  </Pedido>
+</Pedidos>

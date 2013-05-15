@@ -1,0 +1,14 @@
+<system.net>
+  <mailSettings>
+    <smtp deliveryMethod="Network" from="seuEmail@gmail.com">
+      <network 
+        host="smtp.gmail.com"
+        userName="seuEmail@gmail.com"
+        password="Senha"
+        port="587"
+        enableSsl="true"
+        defaultCredentials="false"
+      />
+    </smtp>
+  </mailSettings>
+</system.net>
