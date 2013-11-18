@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Informacoes>
+  <Info xmlns:f="http://www.vitormendes.com.br/partida">
+    <f:times>
+      <f:time>Palmeiras</f:time>
+      <f:time>Corinthians</f:time>
+    </f:times>
+    <f:data>15/05/2013</f:data>
+    <f:horario>16:00</f:horario>
+  </Info>
+  <Info xmlns:p="http://www.vitormendes.com.br/pessoa">
+    <p:nome>Vitor</p:nome>
+    <p:sobrenome>Moreira Mendes</p:sobrenome>
+    <p:cidade>São Paulo</p:cidade>
+  </Info>
+</Informacoes>

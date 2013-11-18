@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Informacoes>
+  <Info>
+    <times>
+      <time>Palmeiras</time>
+      <time>Corinthians</time>
+    </times>
+    <data>15/05/2013</data>
+    <horario>16:00</horario>
+  </Info>
+  <Info>
+    <nome>Vitor</nome>
+    <sobrenome>Moreira Mendes</sobrenome>
+    <cidade>São Paulo</cidade>
+  </Info>
+</Informacoes>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<funcoesJavascript>
+  <funcao>
+    <![CDATA[
+      function VerificarValores(a, b)
+      {
+        if (a != null && b != null)
+        {
+            return a > b;
+        }
+        else
+        {
+            return false;
+        }
+      }
+    ]]>
+  </funcao>
+</funcoesJavascript>

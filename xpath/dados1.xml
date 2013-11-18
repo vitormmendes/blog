@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <!--Este Elemento representara a estrutura de um 'Pedido' realizado pelo cliente  -->
+  <Pedido IdPedido="1">
+    <ItensDoPedido>
+      <Item IdItem="557">
+        <Nome>Geladeira XAVECO</Nome>
+        <Preco>1000</Preco>
+      </Item>
+      <Item IdItem="558">
+        <Nome>Cadeiro XAMEGO</Nome>
+        <Preco>80.5</Preco>
+      </Item>
+    </ItensDoPedido>
+  </Pedido>
+  <!--Este Elemento representara a estrutura de um 'Pedido' realizado pelo cliente  -->
+  <Pedido IdPedido="2">
+    <ItensDoPedido>
+      <Item IdItem="559">
+        <Nome>Celular CADEMEUCHIPPEDROOO</Nome>
+        <Preco>500</Preco>
+      </Item>
+    </ItensDoPedido>
+  </Pedido>
+</Pedidos>
