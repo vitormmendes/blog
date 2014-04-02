@@ -1,7 +1,7 @@
 //Declarando uma nova instancia XmlDocument
 XmlDocument xmlDocument = new XmlDocument();
 
-//1º exemplo --------------------------------------------------------------
+//1º exemplo -------------------------------------------------------------
 
 //Carregando XML do disco rigido
 xmlDocument.Load(@"C:\ArquivoSuperPesado.xml");
