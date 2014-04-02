@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blogs>
+  <blog url="http://ferhenriquef.com/">
+    <autor>Fernando Henrique Ferreira</autor>
+  </blog>
+  <blog url="http://www.eduardopires.net.br/">
+    <autor>Eduardo Pires</autor>
+  </blog>
+  <blog url="http://www.milaneze.com.br/">
+    <autor>eric Milaneze</autor>
+  </blog>
+</blogs>
